@@ -1,0 +1,14 @@
+head, body {
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 700 */
+  color: #8b5400;
+  background-color: #eaf5e2;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
